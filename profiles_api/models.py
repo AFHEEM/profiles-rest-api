@@ -13,7 +13,8 @@ class UserProfileManager(BaseUserManager):
         """
         Create a new user profile
         :param email:
-        :param name:
+        :param na
+        me:
         :param password:
         :return:
         """
